@@ -141,7 +141,7 @@ const About = () => {
                 with MySQL, which helps me manage data and connect it to web
                 applications. I’m always excited to learn new tools and
                 technologies to improve my work and build better web
-                experiences."download="CV_SENG_KOSAL.pdf"
+                experiences.
               </p>
 
               <div className="flex  flex-col lg:flex-row items-center lg:items-start gap-4 lg:gap-4 lg:px-0 w-full">
