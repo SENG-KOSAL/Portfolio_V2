@@ -4,11 +4,15 @@ import "aos/dist/aos.css";
 import emailjs from "@emailjs/browser";
 import Comment from "./Comment";
 import {  User, Mail, MessageSquare, Send } from "lucide-react";
+
+
 const ContactForm = () => {
   useEffect(() => {
     AOS.init({ duration: 1000 });
   }, []);
   const form = useRef();
+
+
   const sendEmail = (e) => {
     e.preventDefault();
 
