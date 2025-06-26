@@ -30,7 +30,6 @@
     "react-icons": "^5.4.0",
     "react-router-dom": "^7.1.2",
     "react-router-hash-link": "^2.4.3",
-    "react-swipeable-views": "^0.14.0",
     "tailwind-merge": "^2.6.0"
   },
   "devDependencies": {
