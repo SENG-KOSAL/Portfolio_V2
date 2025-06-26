@@ -22,7 +22,7 @@ const Home = () => {
 
           {/* Heading */}
           <h1 className="text-4xl md:text-5xl font-bold leading-tight">
-            Feel free to check out my work
+            Feel free to check out my workk
           </h1>
 
           {/* Action Buttons */}
