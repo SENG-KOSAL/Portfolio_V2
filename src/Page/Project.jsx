@@ -60,6 +60,7 @@ const Project = () => {
               <div className="flex justify-between items-center">
                 <a
                   href={project.Link}
+                  target="_blank"
                   className="bg-black text-white py-2 px-4 rounded-lg transition-transform transform hover:scale-105"
                 >
                   Live Demo
