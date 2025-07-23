@@ -30,7 +30,7 @@ export const cart = [
       Title: "Tour Company",
       Description: "A tour company website that allows users to explore various travel packages and book tours online.",
       details: "This project is a tour company website that allows users to explore various travel packages and book tours online. It features a user-friendly interface, detailed tour descriptions, and an easy booking process.",
-      Link: "https://tourfrontend-production.up.railway.app/",
+      Link: "https://youtu.be/c_lHtz25wIY?si=PJA4DFytJX2HiEdu",
       Img: "/images/TourImage 2025-06-21 135429.png",
     },
     // {
