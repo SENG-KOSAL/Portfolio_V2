@@ -38,5 +38,10 @@ export const tools = [
       description: "User Interface",
       icon: "/images/png-transparent-tailwind-css-hd-logo-removebg-preview.png",
     },
+    {
+      name: "Next.js",
+      description: "A React framework for building server-side rendered applications.",
+      icon: "/images/nextjs-icon-svgrepo-com.svg",
+    },
   ];
   
